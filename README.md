@@ -653,3 +653,5 @@ By completing these exercises, you will have built:
 - Multi-system RAG orchestration platform
 
 Each exercise builds practical skills you'll use in production RAG systems!
+
+## Created by Risad Raihan Malik with undying love for Enterprise AI application
